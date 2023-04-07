@@ -1,9 +1,3 @@
-![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/Lily-G1-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://https://www.linkedin.com/in/liliangaladima/)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-[![Linkedin Badge](https://img.shields.io/badge/-ludehsar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ludehsar/)](https://www.linkedin.com/in/ludehsar/)
-
-
 ### Hi 👋 I am Lilian!
 
 I am a Cloud/DevOps Engineer with a major focus on Amazon Web Services and the occassional dabble with Azure and Digital Ocean. I have hands-on experience in the automation of cloud infrastructure and efficient optimization of deployments using IaC and CI/CD tools.  
@@ -13,7 +7,13 @@ I am a Cloud/DevOps Engineer with a major focus on Amazon Web Services and the o
 💼 Job interests: Cloud Engineer/Cloud Administrator/DevOps Engineer (Internships/Entry Level)    
 🌐 Visit my porfolio website  
 👋 Visit my personal blog  
-💡 Fun fact: I love good food, action movies & music      
+💡 Fun fact: I love good food, action movies & music  
+
+### Let's Connect:  
+![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/Lily-G1-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://https://www.linkedin.com/in/liliangaladima/)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+[![Linkedin Badge](https://img.shields.io/badge/-ludehsar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ludehsar/)](https://www.linkedin.com/in/ludehsar/)  
 
 ### ⚡Technologies  
 
