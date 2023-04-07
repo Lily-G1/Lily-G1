@@ -8,7 +8,7 @@ I am a Cloud/DevOps Engineer with a major focus on Amazon Web Services and the o
 ### About me:   
 🌱 Currently learning: Python, Cloud Technologies  
 💼 Job interests: Cloud Engineer/Cloud Administrator/DevOps Engineer (Internships/Entry Level)    
-🌐 Visit my [porfolio website](http://liliangaladima.website)  
+🌐 Visit my [portfolio website](http://liliangaladima.website)  
 👋 Visit my [personal blog](http://liliangaladima.hashnode.dev/)  
 💡 Fun fact: I love good food, action movies & music  
 
