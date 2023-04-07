@@ -1,4 +1,4 @@
-###                                                                  👋 Hi, I am Lilian!  
+### <p align="center">👋 Hi, I am Lilian!</p>  
   
   
 ---  
@@ -8,16 +8,13 @@ I am a Cloud/DevOps Engineer with a major focus on Amazon Web Services and the o
 ### About me:   
 🌱 Currently learning: Python, Cloud Technologies  
 💼 Job interests: Cloud Engineer/Cloud Administrator/DevOps Engineer (Internships/Entry Level)    
-🌐 Visit my porfolio website  
-👋 Visit my personal blog  
+🌐 Visit my [porfolio website](http://liliangaladima.website)  
+👋 Visit my [personal blog](http://liliangaladima.hashnode.dev/)  
 💡 Fun fact: I love good food, action movies & music  
 
 ### Let's Connect:  
-https://badgen.net/badge/hello/world/blue?icon=twitter
-<!-- ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-[![Linkedin Badge](https://img.shields.io/badge/-ludehsar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ludehsar/)](https://www.linkedin.com/in/ludehsar/)   -->
+- [Twitter](http://twitter.com/Anya_Lilyy)  
+- [LinkedIn](http://www.linkedin.com/in/liliangaladima/)  
 
 ### Tools & Technologies:  
 
