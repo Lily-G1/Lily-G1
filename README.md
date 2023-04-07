@@ -15,7 +15,7 @@ I am a Cloud/DevOps Engineer with a major focus on Amazon Web Services and the o
 ### Let's Connect:  
 - [Twitter](http://twitter.com/Anya_Lilyy)  
 - [LinkedIn](http://www.linkedin.com/in/liliangaladima/)  
-- [Gmail](anyagaladima@gmail.com)  
+- [Gmail](mailto:anyagaladima@gmail.com)  
 
 ### Tools & Technologies:  
 
