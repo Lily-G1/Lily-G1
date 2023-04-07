@@ -1,4 +1,7 @@
-### Hi 👋 I am Lilian!
+###                                                                  👋 Hi, I am Lilian!  
+  
+  
+---  
 
 I am a Cloud/DevOps Engineer with a major focus on Amazon Web Services and the occassional dabble with Azure and Digital Ocean. I have hands-on experience in the automation of cloud infrastructure and efficient optimization of deployments using IaC and CI/CD tools.  
 
