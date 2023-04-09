@@ -6,16 +6,18 @@
 I am a Cloud/DevOps Engineer with a major focus on Amazon Web Services and the occassional dabble with Azure and Digital Ocean. I have hands-on experience in the automation of cloud infrastructure and efficient optimization of deployments using IaC and CI/CD tools.  
 
 ### About me:   
+
+💡 Cloud/DevOps Engineer with a focus on AWS + Digital Ocean. Hands on with Iaac & DevOps Tools (listed below)  
 🌱 Currently learning: Python, Cloud Technologies  
-💼 Job interests: Cloud Engineer/Cloud Administrator/DevOps Engineer (Internships/Entry Level)    
+💼 Job interests: Cloud Engineer/Cloud Administrator/Cloud Support/DevOps Engineer (Internships/Entry Level)    
 🌐 Visit my [portfolio website](http://liliangaladima.website)  
 👋 Visit my [personal blog](http://liliangaladima.hashnode.dev/)  
-💡 Fun fact: I love good food, action movies & music  
+😊 Fun fact: I love good food, action movies & music!    
 
 ### Let's Connect:  
 - [Twitter](http://twitter.com/Anya_Lilyy)  
 - [LinkedIn](http://www.linkedin.com/in/liliangaladima/)  
-- [Gmail](mailto:anyagaladima@gmail.com)  
+- [E-Mail](mailto:anyagaladima@gmail.com)  
 
 ### Tools & Technologies:  
 
