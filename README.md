@@ -11,8 +11,8 @@
 🌱 Currently learning: Python, Cloud Technologies  
 💼 Job interests: Cloud Engineer/Cloud Administrator/Cloud Support/Systems AAdministrator/DevOps Engineer (Internships/Entry Level)    
 🌐 Visit my [portfolio website](http://liliangaladima.website)  
-👋 Visit my [personal blog](http://liliangaladima.hashnode.dev/)  
-😊 Fun fact: I'm a lover of good food, travel, action movies & music!    
+👋 Visit my [blog](http://liliangaladima.hashnode.dev/)  
+😊 Fun fact: I'm a lover of animals, good food, travel, action movies & music     
 
 ### Let's Connect:  
 - [Twitter](http://twitter.com/Anya_Lilyy)  
