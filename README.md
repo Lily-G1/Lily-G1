@@ -14,10 +14,10 @@
 👋 Check out my [blog](http://liliangaladima.hashnode.dev/) and kindly leave a comment  
 😊 Fun fact: I'm a lover of animals, food, travel, action movies & good music     
 
-### Let's Connect on Social Media:  
+### Let's Connect on social media:  
 - [Twitter](http://twitter.com/Anya_Lilyy)  
 - [LinkedIn](http://www.linkedin.com/in/liliangaladima/)  
-### Send me an E-Mail:  
+### Send me an e-mail:  
 - [anyagaladima@gmail.com](mailto:anyagaladima@gmail.com)  
 
 ### Tools & Technologies:  
