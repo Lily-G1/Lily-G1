@@ -9,7 +9,7 @@
 
 💡 Cloud/DevOps Engineer with a focus on Amazon Web Services (AWS). I am very 'hands-on' with IaC & DevOps Tools (listed below)  
 🌱 Currently learning: Python, Cloud Technologies  
-💼 Job interests: Cloud, DevOps Engineer/Cloud Support/Linux System Administrator (Internships/Junior)    
+💼 Job interests: Cloud, DevOps Engineer/Cloud Support/Cloud Administrator/Linux System Administrator (Internships/Junior)    
 🌐 Visit my [portfolio website](http://liliangaladima.website)  
 👋 Check out my [blog](http://liliangaladima.hashnode.dev/) and kindly leave a comment  
 😊 Fun fact: I'm a lover of animals, food, travel, action movies & good music     
