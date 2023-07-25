@@ -7,12 +7,12 @@
 
 ### About me:   
 
-💡 Cloud/DevOps Engineer with a focus on Amazon Web Services (AWS). I am very 'hands-on' with IaC & DevOps Tools (listed below)  
+💡 Cloud/DevOps Engineer with a focus on Amazon Web Services (AWS). I am very 'hands-on' with AWS, IaC & DevOps Tools (listed below)  
 🌱 Currently learning: Python, Cloud Technologies  
 💼 Job interests: Cloud, DevOps Engineer/Cloud Support/Cloud Administrator/Linux System Administrator (Internships/Junior)    
 🌐 Visit my [portfolio website](https://liliangaladima.netlify.app)  
 👋 Check out my [blog](http://liliangaladima.hashnode.dev/) and kindly leave a comment  
-😊 Fun fact: I'm a lover of animals, food, travel, action movies & good music     
+😊 Fun facts: I'm a lover of animals, food, travel, action movies & good music     
 
 ### Let's Connect on social media:  
 - [Twitter](http://twitter.com/Anya_Lilyy)  
