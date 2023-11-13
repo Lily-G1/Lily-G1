@@ -1,24 +1,25 @@
-### <p align="center">👋 Hi, I am Lilian!</p>  
-  
-  
+### <p align="center">👋 Hi, I am Lilian!</p>      
 ---  
-
 <!-- I am a Cloud/DevOps Engineer with a major focus on Amazon Web Services and the occassional dabble with Azure and Digital Ocean. I have hands-on experience in the automation of cloud infrastructure and efficient optimization of deployments using IaC and CI/CD tools.   -->
 
 ### About me:   
 
-💡 Cloud/DevOps Engineer with a focus on Amazon Web Services (AWS). I am very 'hands-on' with AWS, IaC & DevOps Tools (listed below)  
-🌱 Currently learning: Python, Cloud Technologies  
-💼 Job interests: Cloud, DevOps Engineer/Cloud Support/Cloud Administrator/Linux System Administrator (Internships/Junior)    
-🌐 Visit my [portfolio website](https://liliangaladima.netlify.app)  
-👋 Check out my [blog](http://liliangaladima.hashnode.dev/) and kindly leave a comment  
-😊 Fun facts: I daydream about food. I'm a lover of dogs, cats, travel, action movies & good music. I speak fluent sarcasm     
+💡  Cloud/DevOps Engineer with a focus on Amazon Web Services (AWS). I am very 'hands-on' with AWS, IaC & DevOps Tools (listed below)  
+💼 Seeking opportunities in: Cloud, DevOps Engineer/Cloud Support/Cloud Administrator/Linux System Administrator (Internships/Junior)    
+👋 View/Download my [Resume](https://docs.google.com/document/d/1Vb1uPhHcSU3XVQqmnRDQcl-vpeWmGqWy/edit?usp=sharing&ouid=101072601135069723028&rtpof=true&sd=true)  
+🌐 Visit my [Portfolio Site](https://liliangaladima.netlify.app) and [Blog](http://liliangaladima.hashnode.dev/) (kindly leave a comment)  
+😊 Random facts: I daydream about food. I'm a lover of dogs, cats, travel, action movies & good music. I speak fluent sarcasm  
+<!-- 👋 Check out my [Blog](http://liliangaladima.hashnode.dev/) and kindly leave a comment  
+🌱 Currently learning: Python, Cloud Technologies  -->
 
-### Let's Connect on social media:  
-- [Twitter](http://twitter.com/Anya_Lilyy)  
-- [LinkedIn](http://www.linkedin.com/in/liliangaladima/)  
-### Send me an e-mail:  
-- [anyagaladima@gmail.com](mailto:anyagaladima@gmail.com)  
+### Certifications:  
+
+- [AWS Certified Solutions Architect : Associate](https://www.credly.com/badges/00172d00-c5f1-47cd-aee8-ff8f13e31081/public_url)  
+
+### Let's Connect:  
+- Twitter/X: [@Anya_Lilyy](http://twitter.com/Anya_Lilyy)  
+- LinkedIn: [liliangaladima](http://www.linkedin.com/in/liliangaladima/)  
+- Email: [anyagaladima@gmail.com](mailto:anyagaladima@gmail.com)  
 
 ### Tools & Technologies:  
 
