@@ -12,7 +12,7 @@
 💼 Job interests: Cloud, DevOps Engineer/Cloud Support/Cloud Administrator/Linux System Administrator (Internships/Junior)    
 🌐 Visit my [portfolio website](https://liliangaladima.netlify.app)  
 👋 Check out my [blog](http://liliangaladima.hashnode.dev/) and kindly leave a comment  
-😊 Fun facts: I'm a lover of animals, food, travel, action movies & good music     
+😊 Fun facts: I daydream about food. I'm a lover of dogs, cats, travel, action movies & good music. I speak fluent sarcasm     
 
 ### Let's Connect on social media:  
 - [Twitter](http://twitter.com/Anya_Lilyy)  
