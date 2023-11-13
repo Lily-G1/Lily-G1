@@ -18,7 +18,7 @@
 
 ### Let's Connect:  
 - Twitter/X: [@Anya_Lilyy](http://twitter.com/Anya_Lilyy)  
-- LinkedIn: [liliangaladima](http://www.linkedin.com/in/liliangaladima/)  
+- LinkedIn: [in/liliangaladima](http://www.linkedin.com/in/liliangaladima/)  
 - Email: [anyagaladima@gmail.com](mailto:anyagaladima@gmail.com)  
 
 ### Tools & Technologies:  
