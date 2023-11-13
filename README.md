@@ -4,7 +4,7 @@
 
 ### About me:   
 
-💡  Cloud/DevOps Engineer with a focus on Amazon Web Services (AWS). I am very 'hands-on' with AWS, IaC & DevOps Tools (listed below)  
+💡  Junior Cloud/DevOps Engineer who's very 'hands-on' with AWS, Azure, IaC & DevOps Tools    
 💼 Seeking opportunities in: Cloud/DevOps Engineering | Cloud Administration/Support | Linux Systems Administration     
 👋 View/Download my [Resume](https://docs.google.com/document/d/1Vb1uPhHcSU3XVQqmnRDQcl-vpeWmGqWy/edit?usp=sharing&ouid=101072601135069723028&rtpof=true&sd=true)  
 🌐 Visit my [Portfolio Site](https://liliangaladima.netlify.app) and [Blog](http://liliangaladima.hashnode.dev/) (kindly leave a comment)  
