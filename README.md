@@ -4,7 +4,7 @@
 
 ### About me:   
 
-💡  Junior Cloud/DevOps Engineer who's very 'hands-on' with AWS, Azure, IaC & DevOps Tools    
+💡  Junior Cloud/DevOps Engineer who is very 'hands-on' with AWS, Azure, IaC & DevOps Tools    
 💼 Seeking junior opportunities in  Linux Systems Administration & Cloud/DevOps roles  
 👋 View/Download my [Resume](https://docs.google.com/document/d/1Vb1uPhHcSU3XVQqmnRDQcl-vpeWmGqWy/edit?usp=sharing&ouid=101072601135069723028&rtpof=true&sd=true)  
 🌐 Visit my [Portfolio Site](https://liliangaladima.netlify.app) and [Blog](http://liliangaladima.hashnode.dev/) (kindly leave a comment)  
@@ -21,7 +21,7 @@
 - LinkedIn: [in/liliangaladima](http://www.linkedin.com/in/liliangaladima/)  
 - Email: [anyagaladima@gmail.com](mailto:anyagaladima@gmail.com)  
 
-### Tools & Technologies:  
+### My current tool stack:  
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
