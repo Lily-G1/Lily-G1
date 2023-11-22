@@ -16,7 +16,7 @@
 
 - [AWS Certified Solutions Architect : Associate](https://www.credly.com/badges/00172d00-c5f1-47cd-aee8-ff8f13e31081/public_url)  
 
-### Let's Connect:  
+### Let's connect:  
 - Twitter/X: [@Anya_Lilyy](http://twitter.com/Anya_Lilyy)  
 - LinkedIn: [in/liliangaladima](http://www.linkedin.com/in/liliangaladima/)  
 - Email: [anyagaladima@gmail.com](mailto:anyagaladima@gmail.com)  
