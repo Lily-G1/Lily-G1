@@ -6,7 +6,7 @@
 
 💡  Junior Cloud/DevOps Engineer who is very 'hands-on' with AWS, IaC & DevOps Tools    
 💼 Seeking opportunities in  Linux Administration, Cloud and/or DevOps roles  
-👋 View/Download my [Resume](https://docs.google.com/document/d/1Vb1uPhHcSU3XVQqmnRDQcl-vpeWmGqWy/edit?usp=sharing&ouid=101072601135069723028&rtpof=true&sd=true)  
+👋 View/download my [Resume](https://docs.google.com/document/d/1Vb1uPhHcSU3XVQqmnRDQcl-vpeWmGqWy/edit?usp=sharing&ouid=101072601135069723028&rtpof=true&sd=true)  
 🌐 Visit my [Portfolio Site](https://liliangaladima.netlify.app) and [Blog](http://liliangaladima.hashnode.dev/) (kindly leave a comment)  
 😊 Random facts: I daydream about food. I'm a lover of dogs, cats, travel, action movies & good music. I speak fluent sarcasm  
 <!-- 👋 Check out my [Blog](http://liliangaladima.hashnode.dev/) and kindly leave a comment  
