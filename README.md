@@ -5,10 +5,10 @@
 ### About me:   
 
 💡  Junior Linux/Cloud/DevOps Engineer who is very 'hands-on' with the CLI, AWS, IaC & DevOps Tools  
-💼 Actively seeking opportunities in  System Administrator, Cloud and/or DevOps Engineer roles  
-👋 View/download my [Resume](https://docs.google.com/document/d/1Vb1uPhHcSU3XVQqmnRDQcl-vpeWmGqWy/edit?usp=sharing&ouid=101072601135069723028&rtpof=true&sd=true)  
+💼 Actively seeking opportunities in Linux System Admin, Cloud and/or DevOps roles  
 🌐 Visit my [Portfolio Site](https://liliangaladima.netlify.app), [Medium](https://medium.com/@liliangaladima_) or [Hashnode](http://liliangaladima.hashnode.dev/) blogs (leave some comments!😊)  
 😊 Random facts: I daydream about food. I'm a lover of dogs, cats, travel, action/adventure movies & good music. I speak fluent sarcasm  
+<!--👋 View/download my [Resume](https://docs.google.com/document/d/1Vb1uPhHcSU3XVQqmnRDQcl-vpeWmGqWy/edit?usp=sharing&ouid=101072601135069723028&rtpof=true&sd=true)-->  
 <!-- 👋 Check out my [Blog](http://liliangaladima.hashnode.dev/) and kindly leave a comment  
 🌱 Currently learning: Python, Cloud Technologies  -->
 
