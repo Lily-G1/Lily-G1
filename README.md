@@ -8,7 +8,7 @@
 💼 Actively seeking opportunities in  System Administrator, Cloud and/or DevOps Engineer roles  
 👋 View/download my [Resume](https://docs.google.com/document/d/1Vb1uPhHcSU3XVQqmnRDQcl-vpeWmGqWy/edit?usp=sharing&ouid=101072601135069723028&rtpof=true&sd=true)  
 🌐 Visit my [Portfolio Site](https://liliangaladima.netlify.app), [Medium](https://medium.com/@liliangaladima_) or [Hashnode](http://liliangaladima.hashnode.dev/) blogs (leave some comments!😊)  
-😊 Random facts: I daydream about food. I'm a lover of dogs, cats, travel, action movies & good music. I speak fluent sarcasm  
+😊 Random facts: I daydream about food. I'm a lover of dogs, cats, travel, action/adventure movies & good music. I speak fluent sarcasm  
 <!-- 👋 Check out my [Blog](http://liliangaladima.hashnode.dev/) and kindly leave a comment  
 🌱 Currently learning: Python, Cloud Technologies  -->
 
@@ -26,7 +26,7 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 <!--![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)-->
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
-![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)
+<!--![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)-->
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
